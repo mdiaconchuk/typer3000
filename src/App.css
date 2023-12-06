@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+body {
+background-image: url(https://cdnb.artstation.com/p/assets/images/images/024/858/699/original/pixel-jeff-divoom.gif?1583771904);
+background-size: cover;
+background-repeat: no-repeat;
+}
+
+* {
+font-family: Montserrat, sans-serif;
+}
